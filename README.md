@@ -6,6 +6,8 @@ A cyberpunk cyber-investigation game built in pure Python and pygame-ce. You pla
 
 No engine, no editor, no external services. Clone it, `pip install`, and it runs.
 
+![Investigation board with a flagged contradiction](screenshots/board_screen_phase4_demo.png)
+
 ## Status
 
 The engine and every system underneath the game are complete and tested. All seven cases are fully written and solvable end-to-end through the deduction engine. What's *not* built yet is the player-facing UI that connects them into one continuous experience — there's no menu-to-results flow you can click through yet. See [`docs/ROADMAP.md`](docs/ROADMAP.md) for exactly what that means.
